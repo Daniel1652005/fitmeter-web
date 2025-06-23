@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fitmeter.dhz",
+      "sha256_cert_fingerprints": [
+        "47:B7:32:5A:D3:93:C4:78:DF:56:F8:B5:28:04:4A:5C:84:8E:46:FB:C1:E2:8A:A9:E7:F5:6E:F8:12:82:5A:10"
+      ]
+    }
+  }
+]
